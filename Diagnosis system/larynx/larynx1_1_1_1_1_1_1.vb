@@ -1,0 +1,22 @@
+﻿Public Class larynx1_1_1_1_1_1_1
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        main_page.Show()
+        Me.Hide()
+
+    End Sub
+
+    Private Sub yes_Click(sender As Object, e As EventArgs) Handles yes.Click
+        If TextBox1.Text = "حميد" Then
+            larynx1_1_1_1_1_1_1_1.Show()
+            Me.Hide()
+
+        End If
+
+        If TextBox1.Text = "خبيث" Then
+            larynx1_1_1_1_1_1_1_2.Show()
+            Me.Hide()
+
+        End If
+
+    End Sub
+End Class

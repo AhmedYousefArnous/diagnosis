@@ -1,0 +1,1001 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{762FECBF-F79A-4B01-BBB6-B0F286AC527B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Diagnosis_system.My.MyApplication</StartupObject>
+    <RootNamespace>Diagnosis_system</RootNamespace>
+    <AssemblyName>Diagnosis system</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Diagnosis system.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Diagnosis system.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ear\ear1.Designer.vb">
+      <DependentUpon>ear1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear2_1.Designer.vb">
+      <DependentUpon>ear2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear3.Designer.vb">
+      <DependentUpon>ear3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear3_1.Designer.vb">
+      <DependentUpon>ear3_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear3_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear4.Designer.vb">
+      <DependentUpon>ear4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear4_1.Designer.vb">
+      <DependentUpon>ear4_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear4_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear5.Designer.vb">
+      <DependentUpon>ear5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear5_11.Designer.vb">
+      <DependentUpon>ear5_11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear5_11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear5_111.Designer.vb">
+      <DependentUpon>ear5_111.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear5_111.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear5_112.Designer.vb">
+      <DependentUpon>ear5_112.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear5_112.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear6.Designer.vb">
+      <DependentUpon>ear6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear6_1.Designer.vb">
+      <DependentUpon>ear6_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear6_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear7.Designer.vb">
+      <DependentUpon>ear7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear7_1.Designer.vb">
+      <DependentUpon>ear7_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear7_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear8.Designer.vb">
+      <DependentUpon>ear8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear8_1.Designer.vb">
+      <DependentUpon>ear8_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear8_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear9.Designer.vb">
+      <DependentUpon>ear9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear9_1.Designer.vb">
+      <DependentUpon>ear9_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear9_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ear\ear9_2.Designer.vb">
+      <DependentUpon>ear9_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ear\ear9_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx.Designer.vb">
+      <DependentUpon>larynx.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_2_2_2.Designer.vb">
+      <DependentUpon>larynx1_1_1_2_2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_2_2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_2_2.Designer.vb">
+      <DependentUpon>larynx1_1_2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1.Designer.vb">
+      <DependentUpon>larynx1_1_1_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_1.Designer.vb">
+      <DependentUpon>larynx1_1_1_1_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_1_1.Designer.vb">
+      <DependentUpon>larynx1_1_1_1_1_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_1_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_1_1_1.Designer.vb">
+      <DependentUpon>larynx1_1_1_1_1_1_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_1_1_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_1_1_1_1.Designer.vb">
+      <DependentUpon>larynx1_1_1_1_1_1_1_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_1_1_1_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_1_1_1_2.Designer.vb">
+      <DependentUpon>larynx1_1_1_1_1_1_1_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_1_1_1_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_1_1_2.Designer.vb">
+      <DependentUpon>larynx1_1_1_1_1_1_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_1_1_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_1_2.Designer.vb">
+      <DependentUpon>larynx1_1_1_1_1_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_1_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_2.Designer.vb">
+      <DependentUpon>larynx1_1_1_1_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_2_1.Designer.vb">
+      <DependentUpon>larynx1_1_1_1_2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_2_2.Designer.vb">
+      <DependentUpon>larynx1_1_1_1_2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_2_2_1.Designer.vb">
+      <DependentUpon>larynx1_1_1_1_2_2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_2_2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_2_2_2.Designer.vb">
+      <DependentUpon>larynx1_1_1_1_2_2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_2_2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_2_2_2_1.Designer.vb">
+      <DependentUpon>larynx1_1_1_1_2_2_2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_2_2_2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_2_2_2_2.Designer.vb">
+      <DependentUpon>larynx1_1_1_1_2_2_2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_1_2_2_2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_2.Designer.vb">
+      <DependentUpon>larynx1_1_1_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_2_1.Designer.vb">
+      <DependentUpon>larynx1_1_2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1.Designer.vb">
+      <DependentUpon>larynx1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1.Designer.vb">
+      <DependentUpon>larynx1_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1.Designer.vb">
+      <DependentUpon>larynx1_1_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_2.Designer.vb">
+      <DependentUpon>larynx1_1_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_2_2_1.Designer.vb">
+      <DependentUpon>larynx1_1_2_2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_2_2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_2_2_2.Designer.vb">
+      <DependentUpon>larynx1_1_2_2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_1_2_2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_2.Designer.vb">
+      <DependentUpon>larynx1_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_2_1.Designer.vb">
+      <DependentUpon>larynx1_2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_2_2.Designer.vb">
+      <DependentUpon>larynx1_2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_2_2_1.Designer.vb">
+      <DependentUpon>larynx1_2_2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_2_2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_2_2_2.Designer.vb">
+      <DependentUpon>larynx1_2_2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_2_2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_2_2_2_1.Designer.vb">
+      <DependentUpon>larynx1_2_2_2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_2_2_2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx1_2_2_2_2.Designer.vb">
+      <DependentUpon>larynx1_2_2_2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx1_2_2_2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx2.Designer.vb">
+      <DependentUpon>larynx2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx2_1.Designer.vb">
+      <DependentUpon>larynx2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx2_1_1.Designer.vb">
+      <DependentUpon>larynx2_1_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx2_1_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx2_1_1_1.Designer.vb">
+      <DependentUpon>larynx2_1_1_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx2_1_1_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx2_1_2.Designer.vb">
+      <DependentUpon>larynx2_1_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx2_1_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx2_1_2_1.Designer.vb">
+      <DependentUpon>larynx2_1_2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx2_1_2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx2_1_2_2.Designer.vb">
+      <DependentUpon>larynx2_1_2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx2_1_2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="larynx\larynx2_2.Designer.vb">
+      <DependentUpon>larynx2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="larynx\larynx2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main page.Designer.vb">
+      <DependentUpon>main page.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_1_1_1_1.Designer.vb">
+      <DependentUpon>Nose2_2_1_1_1_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_1_1_1_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_1_1.Designer.vb">
+      <DependentUpon>Nose2_2_1_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_1_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose11_1.Designer.vb">
+      <DependentUpon>Nose11_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose11_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose12_1.Designer.vb">
+      <DependentUpon>Nose12_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose12_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose12_2.Designer.vb">
+      <DependentUpon>Nose12_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose12_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose2.Designer.vb">
+      <DependentUpon>Nose2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose2_2.Designer.vb">
+      <DependentUpon>Nose2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_1.Designer.vb">
+      <DependentUpon>Nose2_2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_1_1_1.Designer.vb">
+      <DependentUpon>Nose2_2_1_1_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_1_1_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_1_1_2.Designer.vb">
+      <DependentUpon>Nose2_2_1_1_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_1_1_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_2.Designer.vb">
+      <DependentUpon>Nose2_2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_2_1.Designer.vb">
+      <DependentUpon>Nose2_2_2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_2_2.Designer.vb">
+      <DependentUpon>Nose2_2_2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose2_2_2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose3_1.Designer.vb">
+      <DependentUpon>Nose3_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose3_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose3_2.Designer.vb">
+      <DependentUpon>Nose3_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose3_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose4_1.Designer.vb">
+      <DependentUpon>Nose4_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose4_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose4_2.Designer.vb">
+      <DependentUpon>Nose4_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose4_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose5_1.Designer.vb">
+      <DependentUpon>Nose5_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose5_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose5_2.Designer.vb">
+      <DependentUpon>Nose5_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose5_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose6.Designer.vb">
+      <DependentUpon>Nose6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose6_2.Designer.vb">
+      <DependentUpon>Nose6_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose6_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose6_2_1.Designer.vb">
+      <DependentUpon>Nose6_2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose6_2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose6_2_1_1.Designer.vb">
+      <DependentUpon>Nose6_2_1_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose6_2_1_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose6_2_1_2.Designer.vb">
+      <DependentUpon>Nose6_2_1_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose6_2_1_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose6_2_1_2_1.Designer.vb">
+      <DependentUpon>Nose6_2_1_2_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose6_2_1_2_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose6_2_1_2_2.Designer.vb">
+      <DependentUpon>Nose6_2_1_2_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose6_2_1_2_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose7_1.Designer.vb">
+      <DependentUpon>Nose7_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose7_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose7_2.Designer.vb">
+      <DependentUpon>Nose7_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose7_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose8_1.Designer.vb">
+      <DependentUpon>Nose8_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose8_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose8_2.Designer.vb">
+      <DependentUpon>Nose8_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose8_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose9_1.Designer.vb">
+      <DependentUpon>Nose9_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose9_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose10_1.Designer.vb">
+      <DependentUpon>Nose10_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose10_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\Nose10_2.Designer.vb">
+      <DependentUpon>Nose10_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\Nose10_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\NoseII.Designer.vb">
+      <DependentUpon>NoseII.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\NoseII.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Nose\nose.Designer.vb">
+      <DependentUpon>nose.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\nose.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\NoseII_1.Designer.vb">
+      <DependentUpon>NoseII_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\NoseII_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nose\NoseII_2.Designer.vb">
+      <DependentUpon>NoseII_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nose\NoseII_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ear\ear1.resx">
+      <DependentUpon>ear1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear2_1.resx">
+      <DependentUpon>ear2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear3.resx">
+      <DependentUpon>ear3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear3_1.resx">
+      <DependentUpon>ear3_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear4.resx">
+      <DependentUpon>ear4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear4_1.resx">
+      <DependentUpon>ear4_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear5.resx">
+      <DependentUpon>ear5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear5_11.resx">
+      <DependentUpon>ear5_11.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear5_111.resx">
+      <DependentUpon>ear5_111.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear5_112.resx">
+      <DependentUpon>ear5_112.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear6.resx">
+      <DependentUpon>ear6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear6_1.resx">
+      <DependentUpon>ear6_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear7.resx">
+      <DependentUpon>ear7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear7_1.resx">
+      <DependentUpon>ear7_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear8.resx">
+      <DependentUpon>ear8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear8_1.resx">
+      <DependentUpon>ear8_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear9.resx">
+      <DependentUpon>ear9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear9_1.resx">
+      <DependentUpon>ear9_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ear\ear9_2.resx">
+      <DependentUpon>ear9_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx.resx">
+      <DependentUpon>larynx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_2.resx">
+      <DependentUpon>larynx1_1_1_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_2_2_2.resx">
+      <DependentUpon>larynx1_1_1_2_2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_2_1.resx">
+      <DependentUpon>larynx1_1_2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_2_2.resx">
+      <DependentUpon>larynx1_1_2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1.resx">
+      <DependentUpon>larynx1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1.resx">
+      <DependentUpon>larynx1_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1.resx">
+      <DependentUpon>larynx1_1_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1.resx">
+      <DependentUpon>larynx1_1_1_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1_1.resx">
+      <DependentUpon>larynx1_1_1_1_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1_1_1.resx">
+      <DependentUpon>larynx1_1_1_1_1_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1_1_1_1.resx">
+      <DependentUpon>larynx1_1_1_1_1_1_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1_1_1_1_1.resx">
+      <DependentUpon>larynx1_1_1_1_1_1_1_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1_1_1_1_2.resx">
+      <DependentUpon>larynx1_1_1_1_1_1_1_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1_1_1_2.resx">
+      <DependentUpon>larynx1_1_1_1_1_1_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1_1_2.resx">
+      <DependentUpon>larynx1_1_1_1_1_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1_2.resx">
+      <DependentUpon>larynx1_1_1_1_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1_2_1.resx">
+      <DependentUpon>larynx1_1_1_1_2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1_2_2.resx">
+      <DependentUpon>larynx1_1_1_1_2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1_2_2_1.resx">
+      <DependentUpon>larynx1_1_1_1_2_2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1_2_2_2.resx">
+      <DependentUpon>larynx1_1_1_1_2_2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1_2_2_2_1.resx">
+      <DependentUpon>larynx1_1_1_1_2_2_2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_1_1_2_2_2_2.resx">
+      <DependentUpon>larynx1_1_1_1_2_2_2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_2.resx">
+      <DependentUpon>larynx1_1_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_2_2_1.resx">
+      <DependentUpon>larynx1_1_2_2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_1_2_2_2.resx">
+      <DependentUpon>larynx1_1_2_2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_2.resx">
+      <DependentUpon>larynx1_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_2_1.resx">
+      <DependentUpon>larynx1_2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_2_2.resx">
+      <DependentUpon>larynx1_2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_2_2_1.resx">
+      <DependentUpon>larynx1_2_2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_2_2_2.resx">
+      <DependentUpon>larynx1_2_2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_2_2_2_1.resx">
+      <DependentUpon>larynx1_2_2_2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx1_2_2_2_2.resx">
+      <DependentUpon>larynx1_2_2_2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx2.resx">
+      <DependentUpon>larynx2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx2_1.resx">
+      <DependentUpon>larynx2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx2_1_1.resx">
+      <DependentUpon>larynx2_1_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx2_1_1_1.resx">
+      <DependentUpon>larynx2_1_1_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx2_1_2.resx">
+      <DependentUpon>larynx2_1_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx2_1_2_1.resx">
+      <DependentUpon>larynx2_1_2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx2_1_2_2.resx">
+      <DependentUpon>larynx2_1_2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="larynx\larynx2_2.resx">
+      <DependentUpon>larynx2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main page.resx">
+      <DependentUpon>main page.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose2_2_1_1.resx">
+      <DependentUpon>Nose2_2_1_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose11_1.resx">
+      <DependentUpon>Nose11_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose12_1.resx">
+      <DependentUpon>Nose12_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose12_2.resx">
+      <DependentUpon>Nose12_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose2.resx">
+      <DependentUpon>Nose2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose2_2.resx">
+      <DependentUpon>Nose2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose2_2_1.resx">
+      <DependentUpon>Nose2_2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose2_2_1_1_1.resx">
+      <DependentUpon>Nose2_2_1_1_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose2_2_1_1_1_1.resx">
+      <DependentUpon>Nose2_2_1_1_1_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose2_2_1_1_2.resx">
+      <DependentUpon>Nose2_2_1_1_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose2_2_2.resx">
+      <DependentUpon>Nose2_2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose2_2_2_1.resx">
+      <DependentUpon>Nose2_2_2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose2_2_2_2.resx">
+      <DependentUpon>Nose2_2_2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose3_1.resx">
+      <DependentUpon>Nose3_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose3_2.resx">
+      <DependentUpon>Nose3_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose4_1.resx">
+      <DependentUpon>Nose4_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose4_2.resx">
+      <DependentUpon>Nose4_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose5_1.resx">
+      <DependentUpon>Nose5_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose5_2.resx">
+      <DependentUpon>Nose5_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose6.resx">
+      <DependentUpon>Nose6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose6_2.resx">
+      <DependentUpon>Nose6_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose6_2_1.resx">
+      <DependentUpon>Nose6_2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose6_2_1_1.resx">
+      <DependentUpon>Nose6_2_1_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose6_2_1_2.resx">
+      <DependentUpon>Nose6_2_1_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose6_2_1_2_1.resx">
+      <DependentUpon>Nose6_2_1_2_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose6_2_1_2_2.resx">
+      <DependentUpon>Nose6_2_1_2_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose7_1.resx">
+      <DependentUpon>Nose7_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose7_2.resx">
+      <DependentUpon>Nose7_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose8_1.resx">
+      <DependentUpon>Nose8_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose8_2.resx">
+      <DependentUpon>Nose8_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose9_1.resx">
+      <DependentUpon>Nose9_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose10_1.resx">
+      <DependentUpon>Nose10_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\nose.resx">
+      <DependentUpon>nose.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\Nose10_2.resx">
+      <DependentUpon>Nose10_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\NoseII.resx">
+      <DependentUpon>NoseII.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\NoseII_1.resx">
+      <DependentUpon>NoseII_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nose\NoseII_2.resx">
+      <DependentUpon>NoseII_2.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

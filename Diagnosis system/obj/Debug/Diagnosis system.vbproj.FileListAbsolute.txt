@@ -1,0 +1,215 @@
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear3.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear3_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear4.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear4_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear5.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear5_11.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear5_111.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear5_112.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear6.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear6_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear7.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear7_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear8.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear8_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear9.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear9_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear9_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_2_2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_1_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_1_1_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_1_1_1_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_1_1_1_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_1_1_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_1_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_2_2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_2_2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_2_2_2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_2_2_2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_2_2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_2_2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_2_2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_2_2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_2_2_2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_2_2_2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2_1_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2_1_1_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2_1_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2_1_2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2_1_2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.main_page.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_1_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose11_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose12_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose12_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_1_1_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_1_1_1_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_1_1_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose3_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose3_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Form4_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose4_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose5_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose5_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose6_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose6_2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose6_2_1_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose6_2_1_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose6_2_1_2_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose6_2_1_2_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose7_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose7_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose8_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose8_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose9_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose10_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Resources.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.nose.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose10_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.NoseII.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.NoseII_1.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.NoseII_2.resources
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis system.vbproj.GenerateResource.Cache
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis system.exe
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis system.xml
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis system.pdb
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\bin\Debug\Diagnosis system.exe.config
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\bin\Debug\Diagnosis system.exe
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\bin\Debug\Diagnosis system.pdb
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\bin\Debug\Diagnosis system.xml
+C:\Users\Ahmed Gozif\Documents\Visual Studio 2013\Projects\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose6.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\bin\Debug\Diagnosis system.exe.config
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis system.exe
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis system.xml
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis system.pdb
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\bin\Debug\Diagnosis system.exe
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\bin\Debug\Diagnosis system.pdb
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\bin\Debug\Diagnosis system.xml
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis system.vbprojResolveAssemblyReference.cache
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear3.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear3_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear4.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear4_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear5.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear5_11.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear5_111.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear5_112.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear6.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear6_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear7.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear7_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear8.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear8_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear9.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear9_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.ear9_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_2_2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_1_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_1_1_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_1_1_1_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_1_1_1_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_1_1_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_1_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_2_2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_2_2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_2_2_2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_1_1_2_2_2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_2_2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_1_2_2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_2_2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_2_2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_2_2_2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx1_2_2_2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2_1_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2_1_1_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2_1_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2_1_2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2_1_2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.larynx2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.main_page.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_1_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose11_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose12_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose12_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_1_1_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_1_1_1_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_1_1_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose2_2_2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose3_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose3_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Form4_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose4_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose5_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose5_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose6.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose6_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose6_2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose6_2_1_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose6_2_1_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose6_2_1_2_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose6_2_1_2_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose7_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose7_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose8_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose8_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose9_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose10_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Resources.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.nose.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.Nose10_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.NoseII.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.NoseII_1.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis_system.NoseII_2.resources
+E:\Projects\Colledge\Diagnosis system\Diagnosis system\obj\Debug\Diagnosis system.vbproj.GenerateResource.Cache
